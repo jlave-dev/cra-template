@@ -1,4 +1,4 @@
-# @jlave-dev/cra-template
+# cra-template-jlave-dev
 
 This is a customized base template for [Create React App](https://github.com/facebook/create-react-app). On top of the default `cra-template`, it:
 
@@ -7,5 +7,5 @@ This is a customized base template for [Create React App](https://github.com/fac
 
 Use this template with `create-react-app` by running:
 ```bash
-npx create-react-app --template @jlave-dev/cra-template my-app
+npx create-react-app --template jlave-dev my-app
 ```
