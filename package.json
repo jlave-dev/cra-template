@@ -1,6 +1,12 @@
 {
-  "name": "cra-template-jlave-dev",
-  "version": "1.0.0",
+  "description": "A custom base template for Create React App.",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
   "keywords": [
     "react",
     "create-react-app",
@@ -9,17 +15,12 @@
     "remote container",
     "vs code"
   ],
-  "description": "The base template for Create React App.",
+  "license": "MIT",
+  "main": "template.json",
+  "name": "cra-template-jlave-dev",
   "repository": {
     "type": "git",
     "url": "https://github.com/jlave-dev/cra-template.git"
   },
-  "license": "MIT",
-  "engines": {
-    "node": ">=10"
-  },
-  "files": [
-    "template",
-    "template.json"
-  ]
+  "version": "1.0.1"
 }
